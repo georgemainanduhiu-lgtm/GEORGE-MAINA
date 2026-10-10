@@ -1,0 +1,16 @@
+/* Kindle-friendly styles: simple, relative units, no fixed fonts */
+body { font-family: serif; line-height: 1.45; margin: 0 2%; }
+h1 { font-family: sans-serif; font-size: 1.6em; text-align: center; margin: 1.5em 0 1em 0; page-break-before: always; }
+h2 { font-family: sans-serif; font-size: 1.2em; margin: 1.4em 0 0.5em 0; page-break-after: avoid; }
+p { margin: 0 0 0.75em 0; text-indent: 0; }
+blockquote { margin: 1em 0; padding: 0.6em 0.9em; border: 2px solid #2e7d32; border-radius: 6px; background-color: #f1f8e9; }
+blockquote p { margin: 0.25em 0; }
+ul, ol { margin: 0.5em 0 1em 1.2em; }
+li { margin-bottom: 0.35em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th, td { border: 1px solid #666; padding: 0.3em 0.5em; text-align: left; }
+strong { font-weight: bold; }
+nav#toc ol { list-style-type: none; margin-left: 0; }
+.title, p.title { font-family: sans-serif; font-size: 2em; text-align: center; }
+.subtitle, p.subtitle { font-family: sans-serif; font-size: 1.15em; text-align: center; }
+.author, p.author { text-align: center; font-style: italic; }
