@@ -87,12 +87,30 @@ KDP lets you pick three categories. Recommended:
 
 ## Pricing and programs
 
-- **Kindle eBook:** $3.99 to $4.99. This stays in the 70% royalty band ($2.99 to $9.99).
-- **KDP Select:** Enroll for the first 90 days. You'll be in Kindle Unlimited, where many parents borrow kids' books, and you'll get promotion tools (Kindle Countdown Deals).
-- **Paperback:** Strongly recommended. Many buyers of children's books want a physical gift. At ~30,000 words, expect roughly 140 to 170 pages at 6 × 9 inches. Price it around $9.99 to $12.99. The included DOCX is a good starting point for the print interior. Set 0.75" margins and add page numbers in Word, then export a PDF.
-- **Launch timing:** October and November are ideal, because holiday gift shopping peaks in late November and December.
+Checked against KDP help pages in October 2026. Competitor prices come from cached Amazon pages, so check them live before launch.
 
----
+**Recommended plan**
+
+| Stage | US Kindle | UK Kindle | Royalty per sale |
+|---|---|---|---|
+| Launch, 4–5 days (switch by Oct 24–25) | $0.99 (35% option) | £0.99 | ~$0.35 |
+| Regular price through the holidays | **$2.99** (70% option) | £1.99 | ~$2.06 |
+| Black Friday Kindle Countdown Deal (from Nov 27, or Nov 28/30 if KDP won't allow the 27th) | $0.99, then $1.99 | £0.99 | ~$0.66 / ~$1.36 (still 70%) |
+| From January, if the book has ~15–25 good reviews | **$3.99** | £2.99 | ~$2.76 |
+| **Paperback** (publish with the ebook) | **$11.99** | £7.99 | ~$4.27 / ~£2.34 (160 pages, 6×9) |
+
+**KDP Select:** Enroll the ebook when you publish. It puts the book in Kindle Unlimited, where a full read pays about $0.63–$0.98, and it unlocks Countdown Deals. It also pays 70% in India, Japan, Brazil, and Mexico. In return, the ebook can't be sold or given away anywhere else for 90 days. The paperback isn't affected.
+
+**Prices to avoid**
+- US $1.00–$2.98 as a regular price: these pay only 35%. For example, $1.99 pays about $0.70, compared with about $2.06 at $2.99.
+- $0.99 as a permanent price.
+- More than about $4.99 before the book has reviews. Competitors at $5.99–$8.99 have hundreds or thousands of ratings.
+- Paperback below $9.99 / £7.99: the royalty drops from 60% to 50%.
+- Changing or editing the ebook in the 30 days before a Countdown Deal, or the 14 days after. This includes the price, the file, and the metadata. Any change blocks the deal.
+
+**Other stores:** Set each one at or just above its 70% minimum, then raise them in January: €2.99, C$3.99, A$3.99, ₹99–₹149.
+
+**Launch timing:** October and November are ideal. Holiday gift shopping peaks in late November and December. Start Amazon Ads by December 1 and give them no end date.
 
 ## Required: AI disclosure
 
