@@ -91,15 +91,37 @@ Every claim in the description was checked against the manuscript. The opening t
 
 ## Seven keyword slots
 
-Each slot can hold up to 50 characters. Don't repeat words already in your title.
+Paste one line into each box, in lowercase, with no commas or quotation marks. Each box holds up to 50 characters.
 
-1. `soccer books for kids 8-12 boys`
-2. `inspirational sports stories for children`
-3. `football biography for young readers`
-4. `lamine yamal mbappe haaland messi ronaldo`
-5. `growth mindset resilience books for kids`
-6. `world cup 2026 gift for soccer fans`
-7. `motivational chapter book for boys and girls`
+| # | Keyword | Chars |
+|---|---|---|
+| 1 | `team player gifts 8 9 10 11 year old boys girls` | 47 |
+| 2 | `inspirational football legends young readers tween` | 50 |
+| 3 | `lamine yamal messi ronaldo mbappe haaland salah` | 47 |
+| 4 | `vinicius jr bellingham saka modric dembele yildiz` | 49 |
+| 5 | `growth mindset mental toughness resilience grit` | 47 |
+| 6 | `overcoming adversity perseverance fan trivia quiz` | 49 |
+| 7 | `reluctant readers chapter middle grade read aloud` | 49 |
+
+What each one covers:
+
+1. **Gift buyers.** Combined with "soccer" from your title, it matches searches like "soccer player gifts for 10 year old boys" and "soccer team gifts". The separate numbers 8 9 10 11 catch "8 year old", "10 year old" and similar searches.
+2. **The niche's top phrase**, "inspirational soccer stories for young readers", plus "football" for UK and international shoppers and "tween".
+3. **The six most-searched players.** Shoppers type "lamine yamal" in full, so his first name is included.
+4. **The other six players**, so all 12 heroes can be found. Few kids' books cover Dembélé or Yıldız yet, which gives this book a better chance of ranking for those searches.
+5. **Theme searches** from parents, teachers and coaches, in the words competing books use.
+6. **What makes this book different**: comeback-from-setback stories and the Super-Fan Quiz.
+7. **Format and reading level**: reluctant readers, chapter books, middle grade, classroom read-aloud.
+
+**Left out on purpose:**
+- **Words already in your title or subtitle** (soccer, kids, stories, true, courage, 8-12). Amazon already searches them, so repeating them wastes characters.
+- **Category words** (sports, biography, children's). They're already in your categories.
+- **"World Cup", "2026", "FIFA", "Ballon d'Or" and club names.** These are trademarks, and "2026" will make the book look dated. Mention them in the description instead.
+- **"Book", "ebook", "kindle".** KDP says to avoid words that apply to every book.
+- **"Best", "new", "bestselling", "free".** KDP prohibits these.
+- **"Journal" and "practice tracker".** People searching these words expect a paper book to write in. Use them if you publish the paperback.
+
+About 72 hours after publishing, search the Kindle Store for phrases like "lamine yamal book for kids" and "soccer books for boys 9-12". Replace any keyword that doesn't bring up your book.
 
 ---
 
