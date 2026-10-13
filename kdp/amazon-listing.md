@@ -20,44 +20,72 @@ Everything you need to fill in the KDP "Kindle eBook Details" page, plus tips to
 
 ## Book description
 
-KDP accepts simple HTML in the description box. Paste this:
+KDP allows up to **4,000 characters**, and HTML tags count toward that limit. The version below is **3,885 characters including tags**. It uses only `<b>`, `<i>` and `<br>`, the shortest formatting tags. Lists and headings cost more characters.
+
+Paste this into the description box:
 
 ```html
-<p><b>They were told they were too small. Too slow. Not good enough. They didn't listen.</b></p>
-
-<p>Before they were superstars, the greatest soccer players on the planet were kids who faced rejection, injuries, heartbreak, and doubt. This book tells their true stories, and shows young readers that champions aren't the people who never fail. They're the people who never give up.</p>
-
-<p><b>Inside, you'll discover how:</b></p>
-<ul>
-<li><b>Lionel Messi</b> took injections every night just to grow, and turned four lost finals into a World Cup win</li>
-<li><b>Cristiano Ronaldo</b> left home alone at twelve and outworked everyone for twenty years</li>
-<li><b>Luka Modrić</b> went from war refugee to the best player in the world</li>
-<li><b>Mohamed Salah</b> rode up to five buses a day just to get to practice</li>
-<li><b>Kylian Mbappé</b> bounced back from a painful penalty miss to become the World Cup's all-time top scorer</li>
-<li><b>Ousmane Dembélé</b> went from "injury-prone flop" to Ballon d'Or winner</li>
-<li><b>Vinícius Júnior</b> stood up against racism, and never stopped dancing</li>
-<li><b>Erling Haaland</b> scored zero goals in his first 16 pro games, then broke the Premier League record</li>
-<li><b>Bukayo Saka</b> refused to let a missed penalty break him</li>
-<li><b>Jude Bellingham</b> proved it's never over until the final whistle</li>
-<li><b>Kenan Yıldız</b> believed in himself when his old club didn't</li>
-<li><b>Lamine Yamal</b> went from a baby in a photo with Messi to beating him in the 2026 World Cup final</li>
-</ul>
-
-<p><b>Every chapter includes:</b></p>
-<ul>
-<li>A quick-look <b>Fact File</b> for each hero</li>
-<li>A <b>Teamwork Spotlight</b> showing that nobody wins alone</li>
-<li>A <b>Never-Give-Up Lesson</b> kids can use on and off the field</li>
-<li><b>Fun Facts</b> to share with friends</li>
-<li><b>Your Turn</b> questions and practice challenges</li>
-</ul>
-
-<p>Plus a 36-question <b>Super-Fan Quiz</b>, a <b>Never-Give-Up Playbook</b>, a journal and practice tracker, a glossary of soccer words, and a discussion guide for parents, teachers, and coaches.</p>
-
-<p>Updated with the 2026 World Cup, this is the perfect gift for young soccer fans, reluctant readers who love sports, and any child who needs a reminder that setbacks are part of every great story.</p>
-
-<p><b>Scroll up and grab your copy today. Your young reader's comeback story starts here!</b></p>
+Every night, a boy in Argentina gives himself a shot of medicine, just so he can grow. In Croatia, a six-year-old runs to a bomb shelter as the sirens howl. In Egypt, a teenager rides as many as five buses, four hours each way, to get to practice.<br><br><b>All three grew up to become soccer superstars.</b><br><br>Soccer Heroes Who Never Gave Up tells kids ages 8 to 12 the true stories of twelve of the game's biggest names, and a secret most fans never hear: every one of them was once a kid who got told "no." They didn't become heroes because everything went right. They became heroes because of what they did when things went wrong.<br><br><b>Meet the 12 Heroes</b><br><br>• Lionel Messi: told he was too small, until a promise written on a paper napkin changed everything.<br>• Cristiano Ronaldo: nicknamed "Cry Baby," the island boy left home at twelve and outworked everyone.<br>• Luka Modrić: a war refugee who played in a hotel parking lot and became the best player in the world.<br>• Mohamed Salah: the long bus rides that turned a village boy into "the Egyptian King."<br>• Kylian Mbappé: he missed the penalty that knocked France out, then scored a hat-trick in a World Cup final.<br>• Ousmane Dembélé: injured again and again and called a waste of money, he changed his habits and won the Ballon d'Or.<br>• Vinícius Júnior: mocked because he "couldn't shoot," he scored a Champions League final winner, stood up to racism, and kept dancing.<br>• Erling Haaland: zero goals in sixteen games for his hometown club. Then four in twenty-one minutes for Molde, nine in one match for Norway, and a Premier League record.<br>• Bukayo Saka: at nineteen, his penalty was saved in a Euro final. Three years later he stepped up in another shootout and scored.<br>• Jude Bellingham: England were nearly out and some fans were already leaving. Then he threw his legs over his head for a bicycle kick.<br>• Kenan Yıldız: he never felt trusted at Bayern Munich, so at seventeen he bet on himself and earned Juventus's famous number 10.<br>• Lamine Yamal: bathed as a baby by a young Lionel Messi, he grew up to beat him in a World Cup final.<br><br><b>Inside Every Chapter</b><br><br>• A Fact File to get to know each player fast<br>• The Story: the ups, the downs, and the never-give-up moments<br>• A Teamwork Spotlight, because nobody wins alone<br>• A Never-Give-Up Lesson kids can use on the field or off it<br>• Fun Facts to share with friends<br>• Your Turn questions and challenges, like dribbling with your weaker foot<br><br>Kids can read in order or jump to a favorite player, then spot how the heroes cross paths as teammates, as rivals, and even in the very same final.<br><br><b>Bonus Extras</b><br><br>• Hero Connections that link the twelve stories<br>• The Never-Give-Up Playbook: twelve lessons, each with a "Try this" activity<br>• A Never-Give-Up Journal and Weekly Practice Tracker<br>• A 36-question Super-Fan Quiz with answer key<br>• Soccer Words to Know, a kid-friendly glossary<br>• A guide for grown-ups with discussion questions and group activities<br><br><b>Perfect for Parents, Teachers, and Coaches</b><br><br>Each chapter takes about 15 to 20 minutes, ideal for bedtime, reading groups, or a classroom read-aloud. Short chapters and real-life drama hook even reluctant readers who would rather be outside with a ball. Serious topics like war, loss, and racism are handled in an age-appropriate way.<br><br>A great gift for soccer-loving kids, a whole team at season's end, or any kid who has ever missed a shot, lost a big game, or been told "You're too small."<br><br>The big message is one every child needs: success is not about never failing. It is about what we do after we fail.<br><br><b>Lace up your boots. Your story isn't over.</b><br><br><i>This is an unofficial book. It is not endorsed by any player, club, league, or governing body.</i>
 ```
+
+Plain-text version (3,683 characters), if you'd rather paste plain text and bold the section headers with the editor's toolbar:
+
+```text
+Every night, a boy in Argentina gives himself a shot of medicine, just so he can grow. In Croatia, a six-year-old runs to a bomb shelter as the sirens howl. In Egypt, a teenager rides as many as five buses, four hours each way, to get to practice.
+
+All three grew up to become soccer superstars.
+
+Soccer Heroes Who Never Gave Up tells kids ages 8 to 12 the true stories of twelve of the game's biggest names, and a secret most fans never hear: every one of them was once a kid who got told "no." They didn't become heroes because everything went right. They became heroes because of what they did when things went wrong.
+
+Meet the 12 Heroes
+
+• Lionel Messi: told he was too small, until a promise written on a paper napkin changed everything.
+• Cristiano Ronaldo: nicknamed "Cry Baby," the island boy left home at twelve and outworked everyone.
+• Luka Modrić: a war refugee who played in a hotel parking lot and became the best player in the world.
+• Mohamed Salah: the long bus rides that turned a village boy into "the Egyptian King."
+• Kylian Mbappé: he missed the penalty that knocked France out, then scored a hat-trick in a World Cup final.
+• Ousmane Dembélé: injured again and again and called a waste of money, he changed his habits and won the Ballon d'Or.
+• Vinícius Júnior: mocked because he "couldn't shoot," he scored a Champions League final winner, stood up to racism, and kept dancing.
+• Erling Haaland: zero goals in sixteen games for his hometown club. Then four in twenty-one minutes for Molde, nine in one match for Norway, and a Premier League record.
+• Bukayo Saka: at nineteen, his penalty was saved in a Euro final. Three years later he stepped up in another shootout and scored.
+• Jude Bellingham: England were nearly out and some fans were already leaving. Then he threw his legs over his head for a bicycle kick.
+• Kenan Yıldız: he never felt trusted at Bayern Munich, so at seventeen he bet on himself and earned Juventus's famous number 10.
+• Lamine Yamal: bathed as a baby by a young Lionel Messi, he grew up to beat him in a World Cup final.
+
+Inside Every Chapter
+
+• A Fact File to get to know each player fast
+• The Story: the ups, the downs, and the never-give-up moments
+• A Teamwork Spotlight, because nobody wins alone
+• A Never-Give-Up Lesson kids can use on the field or off it
+• Fun Facts to share with friends
+• Your Turn questions and challenges, like dribbling with your weaker foot
+
+Kids can read in order or jump to a favorite player, then spot how the heroes cross paths as teammates, as rivals, and even in the very same final.
+
+Bonus Extras
+
+• Hero Connections that link the twelve stories
+• The Never-Give-Up Playbook: twelve lessons, each with a "Try this" activity
+• A Never-Give-Up Journal and Weekly Practice Tracker
+• A 36-question Super-Fan Quiz with answer key
+• Soccer Words to Know, a kid-friendly glossary
+• A guide for grown-ups with discussion questions and group activities
+
+Perfect for Parents, Teachers, and Coaches
+
+Each chapter takes about 15 to 20 minutes, ideal for bedtime, reading groups, or a classroom read-aloud. Short chapters and real-life drama hook even reluctant readers who would rather be outside with a ball. Serious topics like war, loss, and racism are handled in an age-appropriate way.
+
+A great gift for soccer-loving kids, a whole team at season's end, or any kid who has ever missed a shot, lost a big game, or been told "You're too small."
+
+The big message is one every child needs: success is not about never failing. It is about what we do after we fail.
+
+Lace up your boots. Your story isn't over.
+
+This is an unofficial book. It is not endorsed by any player, club, league, or governing body.
+```
+
+Every claim in the description was checked against the manuscript. The opening three-kid hook comes from the "Before Kickoff" note. The closing line comes from the dedication.
 
 ---
 
